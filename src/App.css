@@ -15,6 +15,7 @@
   --borderback-color: #F7F3FF;
   --Card2-color: #F7F3FF;
   --background-image: url(/public/Vector.png);
+  --btn-text-color: #fff;
 }
 .dark-theme{
   --primary-color: #0A021C;;

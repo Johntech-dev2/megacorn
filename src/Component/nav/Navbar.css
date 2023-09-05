@@ -9,6 +9,7 @@ div.nav{
     width: 1198.688;
     font-size: 20px;
     background-color: var(--primary-color);
+    color: var(--text-color);
 }
 .aside-1, .same1 > a{
     display: flex;
@@ -29,7 +30,7 @@ div.nav{
     gap: 10px;
     border: 0px;
     border-radius: 2000px;
-    color: var(--text-color);
+    color: var(--btn-text-color);
     background-color: var(--btnnav-color) ;
     cursor: pointer;;
 }
